@@ -1,0 +1,31 @@
+name: APIs.io Data Licenses
+description: "How each provider licenses the data its API returns and the outputs you generate with it, and whether commercial use and attribution apply, quoted from their own pages."
+image: https://apis.io/assets/branding/apisio-social-card.png
+url: https://apis.io
+node: website
+nav_active: data-licenses
+
+keywords:
+  - APIs
+  - Search
+  - Discovery
+  - Data Licenses
+  - SPDX
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "scripts"]
+include: [".well-known"]
+
+github_org: api-search
+github_repo: data-licenses
+
+collections:
+  datalicenses:
+    output: true
+    permalink: /data-licenses/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: datalicenses
+    values:
+      layout: data-license

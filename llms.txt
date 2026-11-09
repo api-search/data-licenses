@@ -1,0 +1,10 @@
+---
+layout: none
+---
+# APIs.io Data Licenses
+
+> How each provider licenses the data its API returns and the outputs you generate with it, and whether commercial use and attribution apply. Every statement is quoted word for word from the provider's own page, with the page and the date it was read. Nothing is generated, and APIs.io verifies none of it.
+
+- [Data Licenses directory](https://apis.io/data-licenses/): every published document
+- [API Commons Data Licenses schema](https://github.com/api-commons/data-license): the format these documents use
+- [SPDX](https://spdx.org/licenses/): the SPDX license list, whose identifiers the license fields use
