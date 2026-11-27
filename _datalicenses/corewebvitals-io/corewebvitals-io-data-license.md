@@ -41,7 +41,7 @@ tags:
 - Company
 - Core Web Vitals
 - Web Performance
-- PageSpeed
+- Page Speed
 - Real User Monitoring
 - Consulting
 - MCP

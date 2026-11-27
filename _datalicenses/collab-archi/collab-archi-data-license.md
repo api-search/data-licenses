@@ -45,6 +45,6 @@ tags:
 - Construction
 - Document Management
 - MCP
-- SaaS
+- Software-as-a-Service
 - France
 ---

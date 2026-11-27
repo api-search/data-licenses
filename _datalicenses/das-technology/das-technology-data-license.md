@@ -1,0 +1,216 @@
+---
+api_specs:
+- filename: das-technology-account-api-openapi.yml
+  format: yaml
+  label: DAS Technology Account API
+  slug: das-technology-account-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-account-api-openapi.yml
+- filename: das-technology-client-api-openapi.yml
+  format: yaml
+  label: DAS Technology Client API
+  slug: das-technology-client-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-client-api-openapi.yml
+- filename: das-technology-configuration-api-openapi.yml
+  format: yaml
+  label: DAS Technology Configuration API
+  slug: das-technology-configuration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-configuration-api-openapi.yml
+- filename: das-technology-employee-api-openapi.yml
+  format: yaml
+  label: DAS Technology Employee API
+  slug: das-technology-employee-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-employee-api-openapi.yml
+- filename: das-technology-hierarchyv2-api-openapi.yml
+  format: yaml
+  label: DAS Technology Hierarchy V2 API
+  slug: das-technology-hierarchyv2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-hierarchyv2-api-openapi.yml
+- filename: das-technology-incentives-api-openapi.yml
+  format: yaml
+  label: DAS Technology Incentives API
+  slug: das-technology-incentives-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-incentives-api-openapi.yml
+- filename: das-technology-mail-api-openapi.yml
+  format: yaml
+  label: DAS Technology Mail API
+  slug: das-technology-mail-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-mail-api-openapi.yml
+- filename: das-technology-media-api-openapi.yml
+  format: yaml
+  label: DAS Technology Media API
+  slug: das-technology-media-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-media-api-openapi.yml
+- filename: das-technology-notification-api-openapi.yml
+  format: yaml
+  label: DAS Technology Notification API
+  slug: das-technology-notification-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-notification-api-openapi.yml
+- filename: das-technology-promotions-api-openapi.yml
+  format: yaml
+  label: DAS Technology Promotions API
+  slug: das-technology-promotions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-promotions-api-openapi.yml
+- filename: das-technology-review-api-openapi.yml
+  format: yaml
+  label: DAS Technology Review API
+  slug: das-technology-review-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-review-api-openapi.yml
+- filename: das-technology-rlcustomer-api-openapi.yml
+  format: yaml
+  label: DAS Technology RL Customer API
+  slug: das-technology-rlcustomer-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-rlcustomer-api-openapi.yml
+- filename: das-technology-site-api-openapi.yml
+  format: yaml
+  label: DAS Technology Site API
+  slug: das-technology-site-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-site-api-openapi.yml
+- filename: das-technology-smartfacts-api-openapi.yml
+  format: yaml
+  label: DAS Technology Smart Facts API
+  slug: das-technology-smartfacts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-smartfacts-api-openapi.yml
+- filename: das-technology-soci-api-openapi.yml
+  format: yaml
+  label: DAS Technology SO Ci API
+  slug: das-technology-soci-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-soci-api-openapi.yml
+- filename: das-technology-sociv2-api-openapi.yml
+  format: yaml
+  label: DAS Technology Soci V2 API
+  slug: das-technology-sociv2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-sociv2-api-openapi.yml
+- filename: das-technology-stats-api-openapi.yml
+  format: yaml
+  label: DAS Technology Stats API
+  slug: das-technology-stats-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-stats-api-openapi.yml
+- filename: das-technology-statsv2-api-openapi.yml
+  format: yaml
+  label: DAS Technology Stats V2 API
+  slug: das-technology-statsv2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-statsv2-api-openapi.yml
+- filename: das-technology-survey-api-openapi.yml
+  format: yaml
+  label: DAS Technology Survey API
+  slug: das-technology-survey-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-survey-api-openapi.yml
+- filename: das-technology-surveyresponse-api-openapi.yml
+  format: yaml
+  label: DAS Technology Survey Response API
+  slug: das-technology-surveyresponse-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-surveyresponse-api-openapi.yml
+- filename: das-technology-surveysv2-api-openapi.yml
+  format: yaml
+  label: DAS Technology Surveys V2 API
+  slug: das-technology-surveysv2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-surveysv2-api-openapi.yml
+- filename: das-technology-transaction-api-openapi.yml
+  format: yaml
+  label: DAS Technology Transaction API
+  slug: das-technology-transaction-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-transaction-api-openapi.yml
+- filename: das-technology-user-api-openapi.yml
+  format: yaml
+  label: DAS Technology User API
+  slug: das-technology-user-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-user-api-openapi.yml
+- filename: das-technology-vehicle-api-openapi.yml
+  format: yaml
+  label: DAS Technology Vehicle API
+  slug: das-technology-vehicle-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-vehicle-api-openapi.yml
+- filename: das-technology-zuora-api-openapi.yml
+  format: yaml
+  label: DAS Technology Zuora API
+  slug: das-technology-zuora-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-zuora-api-openapi.yml
+- filename: das-technology-account-v2-api-openapi.yml
+  format: yaml
+  label: DAS Technology Account V2 API
+  slug: das-technology-account-v2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-account-v2-api-openapi.yml
+- filename: das-technology-user-v2-api-openapi.yml
+  format: yaml
+  label: DAS Technology User v2 API
+  slug: das-technology-user-v2-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/das-technology/openapi/das-technology-user-v2-api-openapi.yml
+claim_count: 1
+description: ''
+doc:
+  attribution:
+    required: null
+    text: null
+  data:
+    license: custom
+    stance_commercial: allowed
+    text: create proprietary reports by combining with other DAS data
+  interface_license:
+    url: null
+  outputs:
+    license: null
+    stance_commercial: unstated
+    text: null
+layer: data_license
+layer_version: 0.1.0
+layout: data-license
+method: harvested
+model: claude-haiku-5-5
+name: DAS Technology
+output_license: null
+provenance_date: '2026-11-09'
+provider_name: DAS Technology
+provider_slug: das-technology
+slug: das-technology-data-license
+source_date: '2026-11-09'
+source_filename: das-technology-data-license.yml
+source_heading: Data License
+source_page: https://digitalairstrike.com/terms-conditions/
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ndata_license: 0.1.0\nprovider: DAS Technology\naid: das-technology\nurl: https://digitalairstrike.com/terms-conditions/\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\noutputs:\n  license: null\n  stance_commercial: unstated\n  text: null\ndata:\n  license: custom\n  stance_commercial: allowed\n  text: create proprietary reports by combining with other DAS data\nattribution:\n  required: null\n  text: null\ninterface_license:\n  url: null\n"
+source_yaml_url: https://artifacts.apis.io/das-technology/data-license/das-technology-data-license.yml
+stated_fields:
+- data
+summary_line: 1 quoted statement, read from DAS Technology's own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- MarTech
+- Automotive
+- Automotive Retail
+- Marketing
+- Customer Data Platform
+- Advertising
+- Reputation Management
+- Reviews
+- Surveys
+- Customer Experience
+- Dealership
+---

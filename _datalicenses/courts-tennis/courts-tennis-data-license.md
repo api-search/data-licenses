@@ -46,6 +46,6 @@ tags:
 - Sports Facilities
 - Directories
 - Open Data
-- Model Context Protocol
+- MCP
 - Travel
 ---

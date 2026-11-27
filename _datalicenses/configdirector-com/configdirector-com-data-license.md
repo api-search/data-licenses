@@ -106,6 +106,6 @@ tags:
 - Configuration Management
 - Developer Tools
 - OpenFeature
-- SDKs
+- SDK
 - MCP
 ---

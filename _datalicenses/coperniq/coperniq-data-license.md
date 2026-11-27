@@ -1,0 +1,243 @@
+---
+api_specs:
+- filename: coperniq-accounts-api-openapi.yml
+  format: yaml
+  label: Coperniq Accounts API
+  slug: coperniq-accounts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-accounts-api-openapi.yml
+- filename: coperniq-ahjs-api-openapi.yml
+  format: yaml
+  label: Coperniq ahJs API
+  slug: coperniq-ahjs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-ahjs-api-openapi.yml
+- filename: coperniq-appointments-api-openapi.yml
+  format: yaml
+  label: Coperniq Appointments API
+  slug: coperniq-appointments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-appointments-api-openapi.yml
+- filename: coperniq-assets-api-openapi.yml
+  format: yaml
+  label: Coperniq Assets API
+  slug: coperniq-assets-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-assets-api-openapi.yml
+- filename: coperniq-authentication-api-openapi.yml
+  format: yaml
+  label: Coperniq Authentication API
+  slug: coperniq-authentication-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-authentication-api-openapi.yml
+- filename: coperniq-bills-api-openapi.yml
+  format: yaml
+  label: Coperniq Bills API
+  slug: coperniq-bills-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-bills-api-openapi.yml
+- filename: coperniq-calls-api-openapi.yml
+  format: yaml
+  label: Coperniq Calls API
+  slug: coperniq-calls-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-calls-api-openapi.yml
+- filename: coperniq-contacts-api-openapi.yml
+  format: yaml
+  label: Coperniq Contacts API
+  slug: coperniq-contacts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-contacts-api-openapi.yml
+- filename: coperniq-files-api-openapi.yml
+  format: yaml
+  label: Coperniq Files API
+  slug: coperniq-files-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-files-api-openapi.yml
+- filename: coperniq-forms-api-openapi.yml
+  format: yaml
+  label: Coperniq Forms API
+  slug: coperniq-forms-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-forms-api-openapi.yml
+- filename: coperniq-invoices-api-openapi.yml
+  format: yaml
+  label: Coperniq Invoices API
+  slug: coperniq-invoices-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-invoices-api-openapi.yml
+- filename: coperniq-labels-api-openapi.yml
+  format: yaml
+  label: Coperniq Labels API
+  slug: coperniq-labels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-labels-api-openapi.yml
+- filename: coperniq-notes-api-openapi.yml
+  format: yaml
+  label: Coperniq Notes API
+  slug: coperniq-notes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-notes-api-openapi.yml
+- filename: coperniq-opportunities-api-openapi.yml
+  format: yaml
+  label: Coperniq Opportunities API
+  slug: coperniq-opportunities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-opportunities-api-openapi.yml
+- filename: coperniq-payments-api-openapi.yml
+  format: yaml
+  label: Coperniq Payments API
+  slug: coperniq-payments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-payments-api-openapi.yml
+- filename: coperniq-projects-api-openapi.yml
+  format: yaml
+  label: Coperniq Projects API
+  slug: coperniq-projects-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-projects-api-openapi.yml
+- filename: coperniq-properties-api-openapi.yml
+  format: yaml
+  label: Coperniq Properties API
+  slug: coperniq-properties-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-properties-api-openapi.yml
+- filename: coperniq-quotes-api-openapi.yml
+  format: yaml
+  label: Coperniq Quotes API
+  slug: coperniq-quotes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-quotes-api-openapi.yml
+- filename: coperniq-reminders-api-openapi.yml
+  format: yaml
+  label: Coperniq Reminders API
+  slug: coperniq-reminders-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-reminders-api-openapi.yml
+- filename: coperniq-sites-api-openapi.yml
+  format: yaml
+  label: Coperniq Sites API
+  slug: coperniq-sites-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-sites-api-openapi.yml
+- filename: coperniq-taxes-api-openapi.yml
+  format: yaml
+  label: Coperniq Taxes API
+  slug: coperniq-taxes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-taxes-api-openapi.yml
+- filename: coperniq-users-api-openapi.yml
+  format: yaml
+  label: Coperniq Users API
+  slug: coperniq-users-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-users-api-openapi.yml
+- filename: coperniq-vendors-api-openapi.yml
+  format: yaml
+  label: Coperniq Vendors API
+  slug: coperniq-vendors-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-vendors-api-openapi.yml
+- filename: coperniq-workflows-api-openapi.yml
+  format: yaml
+  label: Coperniq Workflows API
+  slug: coperniq-workflows-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-workflows-api-openapi.yml
+- filename: coperniq-folders-api-openapi.yml
+  format: yaml
+  label: Coperniq Folders API
+  slug: coperniq-folders-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-folders-api-openapi.yml
+- filename: coperniq-measurements-api-openapi.yml
+  format: yaml
+  label: Coperniq Measurements API
+  slug: coperniq-measurements-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-measurements-api-openapi.yml
+- filename: coperniq-timesheets-api-openapi.yml
+  format: yaml
+  label: Coperniq Timesheets API
+  slug: coperniq-timesheets-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-timesheets-api-openapi.yml
+- filename: coperniq-utilities-api-openapi.yml
+  format: yaml
+  label: Coperniq Utilities API
+  slug: coperniq-utilities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-utilities-api-openapi.yml
+- filename: coperniq-catalog-items-api-openapi.yml
+  format: yaml
+  label: Coperniq Catalog Items API
+  slug: coperniq-catalog-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-catalog-items-api-openapi.yml
+- filename: coperniq-form-templates-api-openapi.yml
+  format: yaml
+  label: Coperniq Form Templates API
+  slug: coperniq-form-templates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-form-templates-api-openapi.yml
+- filename: coperniq-line-items-api-openapi.yml
+  format: yaml
+  label: Coperniq Line Items API
+  slug: coperniq-line-items-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-line-items-api-openapi.yml
+- filename: coperniq-work-orders-api-openapi.yml
+  format: yaml
+  label: Coperniq Work Orders API
+  slug: coperniq-work-orders-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/coperniq/openapi/coperniq-work-orders-api-openapi.yml
+claim_count: 1
+description: ''
+doc:
+  attribution:
+    required: null
+    text: null
+  data:
+    license: custom
+    stance_commercial: unstated
+    text: As between the parties, Customer shall retain all right, title, and interest in and to the Customer Data.
+  interface_license:
+    url: null
+  outputs:
+    license: null
+    stance_commercial: unstated
+    text: null
+layer: data_license
+layer_version: 0.1.0
+layout: data-license
+method: harvested
+model: claude-haiku-5-5
+name: Coperniq
+output_license: null
+provenance_date: '2026-11-09'
+provider_name: Coperniq
+provider_slug: coperniq
+slug: coperniq-data-license
+source_date: '2026-11-09'
+source_filename: coperniq-data-license.yml
+source_heading: Data License
+source_page: https://coperniq.io/msa
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ndata_license: 0.1.0\nprovider: Coperniq\naid: coperniq\nurl: https://coperniq.io/msa\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\n  truncated: true\noutputs:\n  license: null\n  stance_commercial: unstated\n  text: null\ndata:\n  license: custom\n  stance_commercial: unstated\n  text: As between the parties, Customer shall retain all right, title, and interest in and to the Customer Data.\nattribution:\n  required: null\n  text: null\ninterface_license:\n  url: null\n"
+source_yaml_url: https://artifacts.apis.io/coperniq/data-license/coperniq-data-license.yml
+stated_fields:
+- data
+summary_line: 1 quoted statement, read from Coperniq's own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- Climate
+- Solar
+- Construction
+- Field Service Management
+- Project Management
+- Contractors
+- CRM
+- Energy
+---

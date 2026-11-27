@@ -1,0 +1,54 @@
+---
+claim_count: 2
+description: ''
+doc:
+  attribution:
+    required: true
+    text: 'APRA requests attribution as: © Australian Prudential Regulation Authority 2024.'
+  data:
+    license: CC-BY-4.0
+    stance_commercial: unstated
+    text: All material presented on this website is provided under a Creative Commons Attribution 4.0 International licence
+  interface_license:
+    url: null
+  outputs:
+    license: null
+    stance_commercial: unstated
+    text: null
+layer: data_license
+layer_version: 0.1.0
+layout: data-license
+method: harvested
+model: claude-haiku-5-5
+name: APRA
+output_license: null
+provenance_date: '2026-11-09'
+provider_name: APRA
+provider_slug: apra
+slug: apra-data-license
+source_date: '2026-11-09'
+source_filename: apra-data-license.yml
+source_heading: Data License
+source_page: https://www.apra.gov.au/copyright
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ndata_license: 0.1.0\nprovider: APRA\naid: apra\nurl: https://www.apra.gov.au/copyright\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\noutputs:\n  license: null\n  stance_commercial: unstated\n  text: null\ndata:\n  license: CC-BY-4.0\n  stance_commercial: unstated\n  text: All material presented on this website is provided under a Creative Commons Attribution 4.0 International\n    licence\nattribution:\n  required: true\n  text: 'APRA requests attribution as: © Australian Prudential Regulation Authority 2024.'\ninterface_license:\n  url: null\n"
+source_yaml_url: https://artifacts.apis.io/apra/data-license/apra-data-license.yml
+stated_fields:
+- data
+- attribution
+summary_line: 2 quoted statements, read from APRA's own page on 2026-11-09.
+synthetic: false
+tags:
+- Insurance
+- Australia
+- Regulator
+- Prudential Regulation
+- General Insurance
+- Life Insurance
+- Private Health Insurance
+- Regulatory Reporting
+- Market Infrastructure
+- Risk Data
+- Superannuation
+- Banking
+---

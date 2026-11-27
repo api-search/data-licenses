@@ -45,6 +45,6 @@ tags:
 - Photos
 - Dating
 - Headshots
-- Consumer Apps
+- Consumer App
 - MCP
 ---

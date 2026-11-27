@@ -43,7 +43,7 @@ tags:
 - AI Agents
 - MCP
 - A2A
-- llms.txt
+- Llms.txt
 - Business Directory
 - Agent Discoverability
 ---

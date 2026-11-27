@@ -1,0 +1,244 @@
+---
+api_specs:
+- filename: hookbase-alert-rules-api-openapi.yml
+  format: yaml
+  label: Hookbase Alert Rules API
+  slug: hookbase-alert-rules-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-alert-rules-api-openapi.yml
+- filename: hookbase-analytics-api-openapi.yml
+  format: yaml
+  label: Hookbase Analytics API
+  slug: hookbase-analytics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-analytics-api-openapi.yml
+- filename: hookbase-audit-logs-api-openapi.yml
+  format: yaml
+  label: Hookbase Audit Logs API
+  slug: hookbase-audit-logs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-audit-logs-api-openapi.yml
+- filename: hookbase-cron-groups-api-openapi.yml
+  format: yaml
+  label: Hookbase Cron Groups API
+  slug: hookbase-cron-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-cron-groups-api-openapi.yml
+- filename: hookbase-cron-jobs-api-openapi.yml
+  format: yaml
+  label: Hookbase Cron Jobs API
+  slug: hookbase-cron-jobs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-cron-jobs-api-openapi.yml
+- filename: hookbase-custom-domains-api-openapi.yml
+  format: yaml
+  label: Hookbase Custom Domains API
+  slug: hookbase-custom-domains-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-custom-domains-api-openapi.yml
+- filename: hookbase-deliveries-api-openapi.yml
+  format: yaml
+  label: Hookbase Deliveries API
+  slug: hookbase-deliveries-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-deliveries-api-openapi.yml
+- filename: hookbase-delivery-clusters-api-openapi.yml
+  format: yaml
+  label: Hookbase Delivery Clusters API
+  slug: hookbase-delivery-clusters-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-delivery-clusters-api-openapi.yml
+- filename: hookbase-destinations-api-openapi.yml
+  format: yaml
+  label: Hookbase Destinations API
+  slug: hookbase-destinations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-destinations-api-openapi.yml
+- filename: hookbase-event-types-api-openapi.yml
+  format: yaml
+  label: Hookbase Event Types API
+  slug: hookbase-event-types-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-event-types-api-openapi.yml
+- filename: hookbase-events-api-openapi.yml
+  format: yaml
+  label: Hookbase Events API
+  slug: hookbase-events-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-events-api-openapi.yml
+- filename: hookbase-filters-api-openapi.yml
+  format: yaml
+  label: Hookbase Filters API
+  slug: hookbase-filters-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-filters-api-openapi.yml
+- filename: hookbase-notification-channels-api-openapi.yml
+  format: yaml
+  label: Hookbase Notification Channels API
+  slug: hookbase-notification-channels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-notification-channels-api-openapi.yml
+- filename: hookbase-observability-otel-api-openapi.yml
+  format: yaml
+  label: Hookbase Observability (OTel) API
+  slug: hookbase-observability-otel-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-observability-otel-api-openapi.yml
+- filename: hookbase-operational-webhooks-api-openapi.yml
+  format: yaml
+  label: Hookbase Operational Webhooks API
+  slug: hookbase-operational-webhooks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-operational-webhooks-api-openapi.yml
+- filename: hookbase-outbound-messages-api-openapi.yml
+  format: yaml
+  label: Hookbase Outbound Messages API
+  slug: hookbase-outbound-messages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-outbound-messages-api-openapi.yml
+- filename: hookbase-portal-tokens-api-openapi.yml
+  format: yaml
+  label: Hookbase Portal Tokens API
+  slug: hookbase-portal-tokens-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-portal-tokens-api-openapi.yml
+- filename: hookbase-provider-catalog-api-openapi.yml
+  format: yaml
+  label: Hookbase Provider Catalog API
+  slug: hookbase-provider-catalog-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-provider-catalog-api-openapi.yml
+- filename: hookbase-publish-event-v1-api-openapi.yml
+  format: yaml
+  label: Hookbase Publish Event (v1) API
+  slug: hookbase-publish-event-v1-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-publish-event-v1-api-openapi.yml
+- filename: hookbase-realtime-api-openapi.yml
+  format: yaml
+  label: Hookbase Realtime API
+  slug: hookbase-realtime-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-realtime-api-openapi.yml
+- filename: hookbase-redaction-policies-api-openapi.yml
+  format: yaml
+  label: Hookbase Redaction Policies API
+  slug: hookbase-redaction-policies-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-redaction-policies-api-openapi.yml
+- filename: hookbase-routes-api-openapi.yml
+  format: yaml
+  label: Hookbase Routes API
+  slug: hookbase-routes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-routes-api-openapi.yml
+- filename: hookbase-scheduled-sends-api-openapi.yml
+  format: yaml
+  label: Hookbase Scheduled Sends API
+  slug: hookbase-scheduled-sends-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-scheduled-sends-api-openapi.yml
+- filename: hookbase-schemas-api-openapi.yml
+  format: yaml
+  label: Hookbase Schemas API
+  slug: hookbase-schemas-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-schemas-api-openapi.yml
+- filename: hookbase-send-event-api-openapi.yml
+  format: yaml
+  label: Hookbase Send Event API
+  slug: hookbase-send-event-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-send-event-api-openapi.yml
+- filename: hookbase-signature-testing-api-openapi.yml
+  format: yaml
+  label: Hookbase Signature Testing API
+  slug: hookbase-signature-testing-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-signature-testing-api-openapi.yml
+- filename: hookbase-sources-api-openapi.yml
+  format: yaml
+  label: Hookbase Sources API
+  slug: hookbase-sources-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-sources-api-openapi.yml
+- filename: hookbase-transforms-api-openapi.yml
+  format: yaml
+  label: Hookbase Transforms API
+  slug: hookbase-transforms-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-transforms-api-openapi.yml
+- filename: hookbase-tunnels-api-openapi.yml
+  format: yaml
+  label: Hookbase Tunnels API
+  slug: hookbase-tunnels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-tunnels-api-openapi.yml
+- filename: hookbase-webhook-analytics-api-openapi.yml
+  format: yaml
+  label: Hookbase Webhook Analytics API
+  slug: hookbase-webhook-analytics-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-webhook-analytics-api-openapi.yml
+- filename: hookbase-webhook-applications-api-openapi.yml
+  format: yaml
+  label: Hookbase Webhook Applications API
+  slug: hookbase-webhook-applications-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-webhook-applications-api-openapi.yml
+- filename: hookbase-webhook-endpoints-api-openapi.yml
+  format: yaml
+  label: Hookbase Webhook Endpoints API
+  slug: hookbase-webhook-endpoints-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-webhook-endpoints-api-openapi.yml
+- filename: hookbase-webhook-subscriptions-api-openapi.yml
+  format: yaml
+  label: Hookbase Webhook Subscriptions API
+  slug: hookbase-webhook-subscriptions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/hookbase/openapi/hookbase-webhook-subscriptions-api-openapi.yml
+claim_count: 1
+description: ''
+doc:
+  attribution:
+    required: null
+    text: null
+  data:
+    license: custom
+    stance_commercial: unstated
+    text: You grant us a limited license to process your data solely to provide the Service.
+  interface_license:
+    url: null
+  outputs:
+    license: null
+    stance_commercial: unstated
+    text: null
+layer: data_license
+layer_version: 0.1.0
+layout: data-license
+method: harvested
+model: claude-haiku-5-5
+name: Hookbase
+output_license: null
+provenance_date: '2026-11-09'
+provider_name: Hookbase
+provider_slug: hookbase
+slug: hookbase-data-license
+source_date: '2026-11-09'
+source_filename: hookbase-data-license.yml
+source_heading: Data License
+source_page: https://www.hookbase.app/terms
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ndata_license: 0.1.0\nprovider: Hookbase\naid: hookbase\nurl: https://www.hookbase.app/terms\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\noutputs:\n  license: null\n  stance_commercial: unstated\n  text: null\ndata:\n  license: custom\n  stance_commercial: unstated\n  text: You grant us a limited license to process your data solely to provide the Service.\nattribution:\n  required: null\n  text: null\ninterface_license:\n  url: null\n"
+source_yaml_url: https://artifacts.apis.io/hookbase/data-license/hookbase-data-license.yml
+stated_fields:
+- data
+summary_line: 1 quoted statement, read from Hookbase's own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- Webhook
+- Cloudflare
+- Integration
+---

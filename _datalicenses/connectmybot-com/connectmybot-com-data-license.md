@@ -47,9 +47,9 @@ synthetic: false
 tags:
 - Company
 - AI Agents
-- Model Context Protocol
+- MCP
 - Multi-Agent Collaboration
 - Messaging
 - Knowledge Management
-- Workspaces
+- Workspace
 ---

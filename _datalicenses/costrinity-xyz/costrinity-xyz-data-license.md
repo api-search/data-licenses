@@ -198,7 +198,7 @@ tags:
 - Company
 - AI Agents
 - AI Safety
-- Agent Guardrails
+- agent-guardrails
 - Compliance
 - EU AI Act
 - MCP

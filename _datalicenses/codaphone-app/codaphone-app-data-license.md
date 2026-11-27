@@ -45,6 +45,6 @@ tags:
 - Shared Inbox
 - SMS Campaigns
 - 10DLC
-- Webhooks
+- Webhook
 - MCP
 ---

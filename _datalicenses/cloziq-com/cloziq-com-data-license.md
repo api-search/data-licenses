@@ -43,7 +43,7 @@ tags:
 - Instagram
 - Facebook Messenger
 - Direct Messaging
-- Appointment Setting
+- Appointment-Setting
 - Sales Automation
-- Model Context Protocol
+- MCP
 ---

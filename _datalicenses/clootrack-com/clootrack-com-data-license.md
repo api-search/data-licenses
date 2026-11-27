@@ -44,5 +44,5 @@ tags:
 - Customer Feedback Analytics
 - Artificial Intelligence
 - Sentiment Analysis
-- Model Context Protocol
+- MCP
 ---

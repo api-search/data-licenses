@@ -68,6 +68,5 @@ tags:
 - Video Generation
 - Image Generation
 - Generative AI
-- Model Context Protocol
-- Text To Video
+- MCP
 ---

@@ -43,7 +43,6 @@ tags:
 - Company
 - Copywriting
 - MCP
-- Model Context Protocol
 - AI Agents
 - Knowledge Base
 - Marketing

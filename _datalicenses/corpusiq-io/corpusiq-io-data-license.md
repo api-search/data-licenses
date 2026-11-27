@@ -68,7 +68,7 @@ tags:
 - MCP
 - Business Intelligence
 - Small Business
-- Integrations
+- Integration
 - ChatGPT
 - Analytics
 ---

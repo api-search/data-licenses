@@ -1,0 +1,77 @@
+---
+api_specs:
+- filename: fullenrich-account-api-openapi.yml
+  format: yaml
+  label: FullEnrich Account API
+  slug: fullenrich-account-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/fullenrich/openapi/fullenrich-account-api-openapi.yml
+- filename: fullenrich-company-api-openapi.yml
+  format: yaml
+  label: FullEnrich Company API
+  slug: fullenrich-company-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/fullenrich/openapi/fullenrich-company-api-openapi.yml
+- filename: fullenrich-contact-api-openapi.yml
+  format: yaml
+  label: FullEnrich Contact API
+  slug: fullenrich-contact-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/fullenrich/openapi/fullenrich-contact-api-openapi.yml
+- filename: fullenrich-people-api-openapi.yml
+  format: yaml
+  label: FullEnrich People API
+  slug: fullenrich-people-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/fullenrich/openapi/fullenrich-people-api-openapi.yml
+claim_count: 1
+description: ''
+doc:
+  attribution:
+    required: null
+    text: null
+  data:
+    license: null
+    stance_commercial: unstated
+    text: null
+  interface_license:
+    url: null
+  outputs:
+    license: null
+    stance_commercial: prohibited
+    text: sell, resell, assign, transfer, distribute, license, sublicence or make available, in any way, the Enriched Data to third parties;
+layer: data_license
+layer_version: 0.1.0
+layout: data-license
+method: harvested
+model: claude-haiku-5-5
+name: FullEnrich
+output_license: null
+provenance_date: '2026-11-09'
+provider_name: FullEnrich
+provider_slug: fullenrich
+slug: fullenrich-data-license
+source_date: '2026-11-09'
+source_filename: fullenrich-data-license.yml
+source_heading: Data License
+source_page: https://fullenrich.com/tos
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ndata_license: 0.1.0\nprovider: FullEnrich\naid: fullenrich\nurl: https://fullenrich.com/tos\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\n  truncated: true\noutputs:\n  license: null\n  stance_commercial: prohibited\n  text: sell, resell, assign, transfer, distribute, license, sublicence or make available, in any way, the Enriched\n    Data to third parties;\ndata:\n  license: null\n  stance_commercial: unstated\n  text: null\nattribution:\n  required: null\n  text: null\ninterface_license:\n  url: null\n"
+source_yaml_url: https://artifacts.apis.io/fullenrich/data-license/fullenrich-data-license.yml
+stated_fields:
+- outputs
+summary_line: 1 quoted statement, read from FullEnrich's own page on 2026-11-09.
+synthetic: false
+tags:
+- B2B Data
+- Contact Enrichment
+- Email Finder
+- Phone Finder
+- Waterfall Enrichment
+- Sales Intelligence
+- People Search
+- Company Search
+- Reverse Email Lookup
+- A2A
+- Data Enrichment
+---

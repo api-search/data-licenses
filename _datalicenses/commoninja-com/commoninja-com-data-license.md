@@ -50,7 +50,7 @@ tags:
 - No-Code
 - Website Builder
 - White Label
-- Webhooks
+- Webhook
 - E-Commerce
 - Developer Platform
 ---

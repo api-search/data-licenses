@@ -1,0 +1,455 @@
+---
+api_specs:
+- filename: google-about-api-openapi.yml
+  format: yaml
+  label: Google About API
+  slug: google-about-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-about-api-openapi.yml
+- filename: google-activity-api-openapi.yml
+  format: yaml
+  label: Google Activity API
+  slug: google-activity-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-activity-api-openapi.yml
+- filename: google-address-api-openapi.yml
+  format: yaml
+  label: Google Address API
+  slug: google-address-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-address-api-openapi.yml
+- filename: google-addresses-api-openapi.yml
+  format: yaml
+  label: Google Addresses API
+  slug: google-addresses-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-addresses-api-openapi.yml
+- filename: google-append-api-openapi.yml
+  format: yaml
+  label: Google Append API
+  slug: google-append-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-append-api-openapi.yml
+- filename: google-applications-api-openapi.yml
+  format: yaml
+  label: Google Applications API
+  slug: google-applications-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-applications-api-openapi.yml
+- filename: google-attachments-api-openapi.yml
+  format: yaml
+  label: Google Attachments API
+  slug: google-attachments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-attachments-api-openapi.yml
+- filename: google-audio-understanding-api-openapi.yml
+  format: yaml
+  label: Google Audio Understanding API
+  slug: google-audio-understanding-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-audio-understanding-api-openapi.yml
+- filename: google-auto-api-openapi.yml
+  format: yaml
+  label: Google Auto API
+  slug: google-auto-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-auto-api-openapi.yml
+- filename: google-batch-api-openapi.yml
+  format: yaml
+  label: Google Batch API
+  slug: google-batch-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-batch-api-openapi.yml
+- filename: google-bookshelves-api-openapi.yml
+  format: yaml
+  label: Google Bookshelves API
+  slug: google-bookshelves-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-bookshelves-api-openapi.yml
+- filename: google-calendar-acl-rules-api-openapi.yml
+  format: yaml
+  label: Google Calendar ACL Rules API
+  slug: google-calendar-acl-rules-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-calendar-acl-rules-api-openapi.yml
+- filename: google-calendar-acls-api-openapi.yml
+  format: yaml
+  label: Google Calendar ACLs API
+  slug: google-calendar-acls-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-calendar-acls-api-openapi.yml
+- filename: google-calendar-events-api-openapi.yml
+  format: yaml
+  label: Google Calendar Events API
+  slug: google-calendar-events-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-calendar-events-api-openapi.yml
+- filename: google-calendars-api-openapi.yml
+  format: yaml
+  label: Google Calendars API
+  slug: google-calendars-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-calendars-api-openapi.yml
+- filename: google-changes-api-openapi.yml
+  format: yaml
+  label: Google Changes API
+  slug: google-changes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-changes-api-openapi.yml
+- filename: google-channels-api-openapi.yml
+  format: yaml
+  label: Google Channels API
+  slug: google-channels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-channels-api-openapi.yml
+- filename: google-clear-api-openapi.yml
+  format: yaml
+  label: Google Clear API
+  slug: google-clear-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-clear-api-openapi.yml
+- filename: google-colors-api-openapi.yml
+  format: yaml
+  label: Google Colors API
+  slug: google-colors-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-colors-api-openapi.yml
+- filename: google-comments-api-openapi.yml
+  format: yaml
+  label: Google Comments API
+  slug: google-comments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-comments-api-openapi.yml
+- filename: google-content-generation-api-openapi.yml
+  format: yaml
+  label: Google Content Generation API
+  slug: google-content-generation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-content-generation-api-openapi.yml
+- filename: google-copy-api-openapi.yml
+  format: yaml
+  label: Google Copy API
+  slug: google-copy-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-copy-api-openapi.yml
+- filename: google-create-api-openapi.yml
+  format: yaml
+  label: Google Create API
+  slug: google-create-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-create-api-openapi.yml
+- filename: google-data-api-openapi.yml
+  format: yaml
+  label: Google Data API
+  slug: google-data-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-data-api-openapi.yml
+- filename: google-delegates-api-openapi.yml
+  format: yaml
+  label: Google Delegates API
+  slug: google-delegates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-delegates-api-openapi.yml
+- filename: google-deletes-api-openapi.yml
+  format: yaml
+  label: Google Deletes API
+  slug: google-deletes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-deletes-api-openapi.yml
+- filename: google-developer-api-openapi.yml
+  format: yaml
+  label: Google Developer API
+  slug: google-developer-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-developer-api-openapi.yml
+- filename: google-disables-api-openapi.yml
+  format: yaml
+  label: Google Disables API
+  slug: google-disables-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-disables-api-openapi.yml
+- filename: google-documents-api-openapi.yml
+  format: yaml
+  label: Google Documents API
+  slug: google-documents-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-documents-api-openapi.yml
+- filename: google-drafts-api-openapi.yml
+  format: yaml
+  label: Google Drafts API
+  slug: google-drafts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-drafts-api-openapi.yml
+- filename: google-drives-api-openapi.yml
+  format: yaml
+  label: Google Drives API
+  slug: google-drives-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-drives-api-openapi.yml
+- filename: google-enables-api-openapi.yml
+  format: yaml
+  label: Google Enables API
+  slug: google-enables-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-enables-api-openapi.yml
+- filename: google-file-api-api-openapi.yml
+  format: yaml
+  label: Google File Api
+  slug: google-file-api-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-file-api-api-openapi.yml
+- filename: google-files-api-openapi.yml
+  format: yaml
+  label: Google Files API
+  slug: google-files-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-files-api-openapi.yml
+- filename: google-free-busy-api-openapi.yml
+  format: yaml
+  label: Google Free Busy API
+  slug: google-free-busy-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-free-busy-api-openapi.yml
+- filename: google-get-api-openapi.yml
+  format: yaml
+  label: Google Get API
+  slug: google-get-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-get-api-openapi.yml
+- filename: google-history-api-openapi.yml
+  format: yaml
+  label: Google History API
+  slug: google-history-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-history-api-openapi.yml
+- filename: google-image-generation-api-openapi.yml
+  format: yaml
+  label: Google Image Generation API
+  slug: google-image-generation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-image-generation-api-openapi.yml
+- filename: google-import-api-openapi.yml
+  format: yaml
+  label: Google Import API
+  slug: google-import-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-import-api-openapi.yml
+- filename: google-info-api-openapi.yml
+  format: yaml
+  label: Google Info API
+  slug: google-info-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-info-api-openapi.yml
+- filename: google-insert-api-openapi.yml
+  format: yaml
+  label: Google Insert API
+  slug: google-insert-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-insert-api-openapi.yml
+- filename: google-labels-api-openapi.yml
+  format: yaml
+  label: Google Labels API
+  slug: google-labels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-labels-api-openapi.yml
+- filename: google-language-api-openapi.yml
+  format: yaml
+  label: Google Language API
+  slug: google-language-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-language-api-openapi.yml
+- filename: google-limits-api-openapi.yml
+  format: yaml
+  label: Google Limits API
+  slug: google-limits-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-limits-api-openapi.yml
+- filename: google-lists-api-openapi.yml
+  format: yaml
+  label: Google Lists API
+  slug: google-lists-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-lists-api-openapi.yml
+- filename: google-messages-api-openapi.yml
+  format: yaml
+  label: Google Messages API
+  slug: google-messages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-messages-api-openapi.yml
+- filename: google-modify-api-openapi.yml
+  format: yaml
+  label: Google Modify API
+  slug: google-modify-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-modify-api-openapi.yml
+- filename: google-my-library-api-openapi.yml
+  format: yaml
+  label: Google My Library API
+  slug: google-my-library-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-my-library-api-openapi.yml
+- filename: google-notifications-api-openapi.yml
+  format: yaml
+  label: Google Notifications API
+  slug: google-notifications-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-notifications-api-openapi.yml
+- filename: google-obliterate-api-openapi.yml
+  format: yaml
+  label: Google Obliterate API
+  slug: google-obliterate-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-obliterate-api-openapi.yml
+- filename: google-patch-api-openapi.yml
+  format: yaml
+  label: Google Patch API
+  slug: google-patch-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-patch-api-openapi.yml
+- filename: google-permissions-api-openapi.yml
+  format: yaml
+  label: Google Permissions API
+  slug: google-permissions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-permissions-api-openapi.yml
+- filename: google-pop-api-openapi.yml
+  format: yaml
+  label: Google Pop API
+  slug: google-pop-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-pop-api-openapi.yml
+- filename: google-replies-api-openapi.yml
+  format: yaml
+  label: Google Replies API
+  slug: google-replies-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-replies-api-openapi.yml
+- filename: google-revisions-api-openapi.yml
+  format: yaml
+  label: Google Revisions API
+  slug: google-revisions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-revisions-api-openapi.yml
+- filename: google-send-api-openapi.yml
+  format: yaml
+  label: Google Send API
+  slug: google-send-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-send-api-openapi.yml
+- filename: google-sets-api-openapi.yml
+  format: yaml
+  label: Google Sets API
+  slug: google-sets-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-sets-api-openapi.yml
+- filename: google-settings-api-openapi.yml
+  format: yaml
+  label: Google Settings API
+  slug: google-settings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-settings-api-openapi.yml
+- filename: google-speech-generation-api-openapi.yml
+  format: yaml
+  label: Google Speech Generation API
+  slug: google-speech-generation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-speech-generation-api-openapi.yml
+- filename: google-team-drives-api-openapi.yml
+  format: yaml
+  label: Google Team Drives API
+  slug: google-team-drives-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-team-drives-api-openapi.yml
+- filename: google-threads-api-openapi.yml
+  format: yaml
+  label: Google Threads API
+  slug: google-threads-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-threads-api-openapi.yml
+- filename: google-trash-api-openapi.yml
+  format: yaml
+  label: Google Trash API
+  slug: google-trash-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-trash-api-openapi.yml
+- filename: google-update-api-openapi.yml
+  format: yaml
+  label: Google Update API
+  slug: google-update-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-update-api-openapi.yml
+- filename: google-user-calendars-api-openapi.yml
+  format: yaml
+  label: Google User Calendars API
+  slug: google-user-calendars-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-user-calendars-api-openapi.yml
+- filename: google-user-settings-api-openapi.yml
+  format: yaml
+  label: Google User Settings API
+  slug: google-user-settings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-user-settings-api-openapi.yml
+- filename: google-users-api-openapi.yml
+  format: yaml
+  label: Google Users API
+  slug: google-users-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-users-api-openapi.yml
+- filename: google-volumes-api-openapi.yml
+  format: yaml
+  label: Google Volumes API
+  slug: google-volumes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/google/openapi/google-volumes-api-openapi.yml
+claim_count: 1
+description: ''
+doc:
+  attribution:
+    required: null
+    text: null
+  data:
+    license: CC-BY-4.0
+    stance_commercial: unstated
+    text: Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License
+  interface_license:
+    url: null
+  outputs:
+    license: null
+    stance_commercial: unstated
+    text: null
+layer: data_license
+layer_version: 0.1.0
+layout: data-license
+method: harvested
+model: claude-haiku-5-5
+name: Google
+output_license: null
+provenance_date: '2026-11-09'
+provider_name: Google
+provider_slug: google
+slug: google-data-license
+source_date: '2026-11-09'
+source_filename: google-data-license.yml
+source_heading: Data License
+source_page: https://developers.google.com/terms/site-terms
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ndata_license: 0.1.0\nprovider: Google\naid: google\nurl: https://developers.google.com/terms/site-terms\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\noutputs:\n  license: null\n  stance_commercial: unstated\n  text: null\ndata:\n  license: CC-BY-4.0\n  stance_commercial: unstated\n  text: Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0\n    License\nattribution:\n  required: null\n  text: null\ninterface_license:\n  url: null\n"
+source_yaml_url: https://artifacts.apis.io/google/data-license/google-data-license.yml
+stated_fields:
+- data
+summary_line: 1 quoted statement, read from Google's own page on 2026-11-09.
+synthetic: false
+tags:
+- Advertising
+- Cloud
+- Developers
+- Google
+- Platform
+- Search
+- T1
+- Agentic Commerce
+- Universal Commerce Protocol
+- AP2
+- A2A
+---

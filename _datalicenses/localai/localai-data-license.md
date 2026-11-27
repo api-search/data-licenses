@@ -1,0 +1,212 @@
+---
+api_specs:
+- filename: localai-agent-jobs-api-openapi.yml
+  format: yaml
+  label: LocalAI Agent Jobs API
+  slug: localai-agent-jobs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-agent-jobs-api-openapi.yml
+- filename: localai-audio-api-openapi.yml
+  format: yaml
+  label: LocalAI Audio API
+  slug: localai-audio-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-audio-api-openapi.yml
+- filename: localai-backends-api-openapi.yml
+  format: yaml
+  label: LocalAI Backends API
+  slug: localai-backends-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-backends-api-openapi.yml
+- filename: localai-branding-api-openapi.yml
+  format: yaml
+  label: LocalAI Branding API
+  slug: localai-branding-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-branding-api-openapi.yml
+- filename: localai-config-api-openapi.yml
+  format: yaml
+  label: LocalAI Config API
+  slug: localai-config-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-config-api-openapi.yml
+- filename: localai-depth-api-openapi.yml
+  format: yaml
+  label: LocalAI Depth API
+  slug: localai-depth-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-depth-api-openapi.yml
+- filename: localai-detection-api-openapi.yml
+  format: yaml
+  label: LocalAI Detection API
+  slug: localai-detection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-detection-api-openapi.yml
+- filename: localai-embeddings-api-openapi.yml
+  format: yaml
+  label: LocalAI Embeddings API
+  slug: localai-embeddings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-embeddings-api-openapi.yml
+- filename: localai-face-recognition-api-openapi.yml
+  format: yaml
+  label: LocalAI Face Recognition API
+  slug: localai-face-recognition-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-face-recognition-api-openapi.yml
+- filename: localai-images-api-openapi.yml
+  format: yaml
+  label: LocalAI Images API
+  slug: localai-images-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-images-api-openapi.yml
+- filename: localai-inference-api-openapi.yml
+  format: yaml
+  label: LocalAI Inference API
+  slug: localai-inference-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-inference-api-openapi.yml
+- filename: localai-instructions-api-openapi.yml
+  format: yaml
+  label: LocalAI Instructions API
+  slug: localai-instructions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-instructions-api-openapi.yml
+- filename: localai-mcp-api-openapi.yml
+  format: yaml
+  label: LocalAI MCP API
+  slug: localai-mcp-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-mcp-api-openapi.yml
+- filename: localai-models-api-openapi.yml
+  format: yaml
+  label: LocalAI Models API
+  slug: localai-models-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-models-api-openapi.yml
+- filename: localai-moderation-api-openapi.yml
+  format: yaml
+  label: LocalAI Moderation API
+  slug: localai-moderation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-moderation-api-openapi.yml
+- filename: localai-monitoring-api-openapi.yml
+  format: yaml
+  label: LocalAI Monitoring API
+  slug: localai-monitoring-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-monitoring-api-openapi.yml
+- filename: localai-nodes-api-openapi.yml
+  format: yaml
+  label: LocalAI Nodes API
+  slug: localai-nodes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-nodes-api-openapi.yml
+- filename: localai-pii-api-openapi.yml
+  format: yaml
+  label: LocalAI Pii API
+  slug: localai-pii-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-pii-api-openapi.yml
+- filename: localai-rerank-api-openapi.yml
+  format: yaml
+  label: LocalAI Rerank API
+  slug: localai-rerank-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-rerank-api-openapi.yml
+- filename: localai-router-api-openapi.yml
+  format: yaml
+  label: LocalAI Router API
+  slug: localai-router-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-router-api-openapi.yml
+- filename: localai-tokenize-api-openapi.yml
+  format: yaml
+  label: LocalAI Tokenize API
+  slug: localai-tokenize-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-tokenize-api-openapi.yml
+- filename: localai-video-api-openapi.yml
+  format: yaml
+  label: LocalAI Video API
+  slug: localai-video-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-video-api-openapi.yml
+- filename: localai-voice-profiles-api-openapi.yml
+  format: yaml
+  label: LocalAI Voice Profiles API
+  slug: localai-voice-profiles-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-voice-profiles-api-openapi.yml
+- filename: localai-voice-recognition-api-openapi.yml
+  format: yaml
+  label: LocalAI Voice Recognition API
+  slug: localai-voice-recognition-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-voice-recognition-api-openapi.yml
+- filename: localai-p2p-api-openapi.yml
+  format: yaml
+  label: LocalAI P2p API
+  slug: localai-p2p-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-p2p-api-openapi.yml
+- filename: localai-3-d-api-openapi.yml
+  format: yaml
+  label: LocalAI 3 D API
+  slug: localai-3-d-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/localai/openapi/localai-3-d-api-openapi.yml
+claim_count: 2
+description: ''
+doc:
+  attribution:
+    required: true
+    text: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+  data:
+    license: MIT
+    stance_commercial: allowed
+    text: to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software
+  interface_license:
+    url: null
+  outputs:
+    license: null
+    stance_commercial: unstated
+    text: null
+layer: data_license
+layer_version: 0.1.0
+layout: data-license
+method: harvested
+model: claude-haiku-5-5
+name: LocalAI
+output_license: null
+provenance_date: '2026-11-09'
+provider_name: LocalAI
+provider_slug: localai
+slug: localai-data-license
+source_date: '2026-11-09'
+source_filename: localai-data-license.yml
+source_heading: Data License
+source_page: https://github.com/mudler/LocalAI/blob/master/LICENSE
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ndata_license: 0.1.0\nprovider: LocalAI\naid: localai\nurl: https://github.com/mudler/LocalAI/blob/master/LICENSE\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\noutputs:\n  license: null\n  stance_commercial: unstated\n  text: null\ndata:\n  license: MIT\n  stance_commercial: allowed\n  text: to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software\nattribution:\n  required: true\n  text: The above copyright notice and this permission notice shall be included in all copies or substantial portions\n    of the Software.\ninterface_license:\n  url: null\n"
+source_yaml_url: https://artifacts.apis.io/localai/data-license/localai-data-license.yml
+stated_fields:
+- data
+- attribution
+summary_line: 2 quoted statements, read from LocalAI's own page on 2026-11-09.
+synthetic: false
+tags:
+- Artificial Intelligence
+- Machine Learning
+- LLM
+- Inference
+- Self-Hosted
+- Open Source
+- Agents
+- MCP
+- Speech
+- Computer Vision
+- Embeddings
+- Edge Computing
+- Real-Time
+---

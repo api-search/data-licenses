@@ -82,7 +82,7 @@ summary_line: 1 quoted statement, read from ColoringBookify's own page on 2026-1
 synthetic: false
 tags:
 - Company
-- AI
+- Artificial Intelligence
 - Coloring Books
 - Image Generation
 - PDF Generation

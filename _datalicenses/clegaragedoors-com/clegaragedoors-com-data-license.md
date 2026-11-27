@@ -49,7 +49,7 @@ tags:
 - Garage Doors
 - Home Services
 - Repair
-- Installation
+- Installations
 - Local Business
 - Cleveland
 ---

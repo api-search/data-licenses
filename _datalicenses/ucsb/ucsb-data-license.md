@@ -1,0 +1,387 @@
+---
+api_specs:
+- filename: ucsb-admitlevels-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Admit Levels API
+  slug: ucsb-admitlevels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-admitlevels-api-openapi.yml
+- filename: ucsb-classes-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Classes API
+  slug: ucsb-classes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-classes-api-openapi.yml
+- filename: ucsb-classifications-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Classifications API
+  slug: ucsb-classifications-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-classifications-api-openapi.yml
+- filename: ucsb-classlevels-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Class Levels API
+  slug: ucsb-classlevels-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-classlevels-api-openapi.yml
+- filename: ucsb-classlist-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Class List API
+  slug: ucsb-classlist-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-classlist-api-openapi.yml
+- filename: ucsb-classsection-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Class Section API
+  slug: ucsb-classsection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-classsection-api-openapi.yml
+- filename: ucsb-classspaceavailability-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Class Space Availability API
+  slug: ucsb-classspaceavailability-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-classspaceavailability-api-openapi.yml
+- filename: ucsb-colleges-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Colleges API
+  slug: ucsb-colleges-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-colleges-api-openapi.yml
+- filename: ucsb-courserepeats-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Course Repeats API
+  slug: ucsb-courserepeats-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-courserepeats-api-openapi.yml
+- filename: ucsb-courses-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Courses API
+  slug: ucsb-courses-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-courses-api-openapi.yml
+- filename: ucsb-coursestatuses-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Course Statuses API
+  slug: ucsb-coursestatuses-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-coursestatuses-api-openapi.yml
+- filename: ucsb-days-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Days API
+  slug: ucsb-days-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-days-api-openapi.yml
+- filename: ucsb-degreestatus-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Degree Status API
+  slug: ucsb-degreestatus-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-degreestatus-api-openapi.yml
+- filename: ucsb-departments-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Departments API
+  slug: ucsb-departments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-departments-api-openapi.yml
+- filename: ucsb-divisions-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Divisions API
+  slug: ucsb-divisions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-divisions-api-openapi.yml
+- filename: ucsb-emphasis-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Emphasis API
+  slug: ucsb-emphasis-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-emphasis-api-openapi.yml
+- filename: ucsb-employees-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Employees API
+  slug: ucsb-employees-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-employees-api-openapi.yml
+- filename: ucsb-events-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Events API
+  slug: ucsb-events-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-events-api-openapi.yml
+- filename: ucsb-feestatus-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Fee Status API
+  slug: ucsb-feestatus-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-feestatus-api-openapi.yml
+- filename: ucsb-finals-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Finals API
+  slug: ucsb-finals-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-finals-api-openapi.yml
+- filename: ucsb-fwtmn001-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara FWTMN001 API
+  slug: ucsb-fwtmn001-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-fwtmn001-api-openapi.yml
+- filename: ucsb-fwtmn006-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara FWTMN006 API
+  slug: ucsb-fwtmn006-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-fwtmn006-api-openapi.yml
+- filename: ucsb-genderidentity-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Gender Identity API
+  slug: ucsb-genderidentity-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-genderidentity-api-openapi.yml
+- filename: ucsb-get-active-or-specific-classcode-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Get Active or Specific ClassCode API
+  slug: ucsb-get-active-or-specific-classcode-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-get-active-or-specific-classcode-api-openapi.yml
+- filename: ucsb-get-all-active-classcodes-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Get all Active ClassCodes API
+  slug: ucsb-get-all-active-classcodes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-get-all-active-classcodes-api-openapi.yml
+- filename: ucsb-grades-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Grades API
+  slug: ucsb-grades-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-grades-api-openapi.yml
+- filename: ucsb-gradingoptions-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Grading Options API
+  slug: ucsb-gradingoptions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-gradingoptions-api-openapi.yml
+- filename: ucsb-instructiontypes-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Instruction Types API
+  slug: ucsb-instructiontypes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-instructiontypes-api-openapi.yml
+- filename: ucsb-instructorfunctions-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Instructor Functions API
+  slug: ucsb-instructorfunctions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-instructorfunctions-api-openapi.yml
+- filename: ucsb-internationalstudents-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara International Students API
+  slug: ucsb-internationalstudents-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-internationalstudents-api-openapi.yml
+- filename: ucsb-majors-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Majors API
+  slug: ucsb-majors-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-majors-api-openapi.yml
+- filename: ucsb-minors-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Minors API
+  slug: ucsb-minors-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-minors-api-openapi.yml
+- filename: ucsb-multiethnicity-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Multi Ethnicity API
+  slug: ucsb-multiethnicity-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-multiethnicity-api-openapi.yml
+- filename: ucsb-objectives-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Objectives API
+  slug: ucsb-objectives-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-objectives-api-openapi.yml
+- filename: ucsb-objmajemps-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Obj Maj Emps API
+  slug: ucsb-objmajemps-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-objmajemps-api-openapi.yml
+- filename: ucsb-organizations-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Organizations API
+  slug: ucsb-organizations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-organizations-api-openapi.yml
+- filename: ucsb-perms-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Perms API
+  slug: ucsb-perms-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-perms-api-openapi.yml
+- filename: ucsb-programs-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Programs API
+  slug: ucsb-programs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-programs-api-openapi.yml
+- filename: ucsb-pronouns-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Pronouns API
+  slug: ucsb-pronouns-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-pronouns-api-openapi.yml
+- filename: ucsb-quarters-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Quarters API
+  slug: ucsb-quarters-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-quarters-api-openapi.yml
+- filename: ucsb-registration-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Registration API
+  slug: ucsb-registration-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-registration-api-openapi.yml
+- filename: ucsb-registrationblocks-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Registration Blocks API
+  slug: ucsb-registrationblocks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-registrationblocks-api-openapi.yml
+- filename: ucsb-regstatus-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Reg Status API
+  slug: ucsb-regstatus-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-regstatus-api-openapi.yml
+- filename: ucsb-repeattypes-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Repeat Types API
+  slug: ucsb-repeattypes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-repeattypes-api-openapi.yml
+- filename: ucsb-requirementcourses-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Requirement Courses API
+  slug: ucsb-requirementcourses-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-requirementcourses-api-openapi.yml
+- filename: ucsb-requirements-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Requirements API
+  slug: ucsb-requirements-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-requirements-api-openapi.yml
+- filename: ucsb-rosters-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Rosters API
+  slug: ucsb-rosters-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-rosters-api-openapi.yml
+- filename: ucsb-schedules-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Schedules API
+  slug: ucsb-schedules-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-schedules-api-openapi.yml
+- filename: ucsb-schooltypes-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara School Types API
+  slug: ucsb-schooltypes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-schooltypes-api-openapi.yml
+- filename: ucsb-sessions-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Sessions API
+  slug: ucsb-sessions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-sessions-api-openapi.yml
+- filename: ucsb-students-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Students API
+  slug: ucsb-students-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-students-api-openapi.yml
+- filename: ucsb-studyloadstatus-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Study Load Status API
+  slug: ucsb-studyloadstatus-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-studyloadstatus-api-openapi.yml
+- filename: ucsb-subjects-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Subjects API
+  slug: ucsb-subjects-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-subjects-api-openapi.yml
+- filename: ucsb-uc-fau-validation-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Uc Fau Validation API
+  slug: ucsb-uc-fau-validation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-uc-fau-validation-api-openapi.yml
+- filename: ucsb-verifications-api-openapi.yml
+  format: yaml
+  label: University of California, Santa Barbara Verifications API
+  slug: ucsb-verifications-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/ucsb/openapi/ucsb-verifications-api-openapi.yml
+claim_count: 1
+description: ''
+doc:
+  attribution:
+    required: null
+    text: null
+  data:
+    license: null
+    stance_commercial: prohibited
+    text: Other materials accessible within UCSB Web space, without explicit permission, may not be copied, reproduced, republished, uploaded, posted, transmitted, or distributed in any way, with one exception.
+  interface_license:
+    url: null
+  outputs:
+    license: null
+    stance_commercial: unstated
+    text: null
+layer: data_license
+layer_version: 0.1.0
+layout: data-license
+method: harvested
+model: claude-haiku-5-5
+name: University of California, Santa Barbara
+output_license: null
+provenance_date: '2026-11-10'
+provider_name: University of California, Santa Barbara
+provider_slug: ucsb
+slug: ucsb-data-license
+source_date: '2026-11-10'
+source_filename: ucsb-data-license.yml
+source_heading: Data License
+source_page: https://www.ucsb.edu/terms-of-use
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ndata_license: 0.1.0\nprovider: University of California, Santa Barbara\naid: ucsb\nurl: https://www.ucsb.edu/terms-of-use\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\noutputs:\n  license: null\n  stance_commercial: unstated\n  text: null\ndata:\n  license: null\n  stance_commercial: prohibited\n  text: Other materials accessible within UCSB Web space, without explicit permission, may not be copied, reproduced,\n    republished, uploaded, posted, transmitted, or distributed in any way, with one exception.\nattribution:\n  required: null\n  text: null\ninterface_license:\n  url: null\n"
+source_yaml_url: https://artifacts.apis.io/ucsb/data-license/ucsb-data-license.yml
+stated_fields:
+- data
+summary_line: 1 quoted statement, read from University of California, Santa Barbara's own page on 2026-11-10.
+synthetic: false
+tags:
+- Education
+- Higher Education
+- University
+- Public Research University
+- UC System
+- United States
+- California
+- Campus
+- Student Information System
+- Course Catalog
+- Academics
+- Identity Federation
+- Research Repository
+- Library
+- Developer Tools
+---

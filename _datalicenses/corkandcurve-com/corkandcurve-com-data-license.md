@@ -75,6 +75,6 @@ tags:
 - Travel
 - Travel Guides
 - Publishing
-- Food and Drink
+- Food and Beverage
 - MCP
 ---

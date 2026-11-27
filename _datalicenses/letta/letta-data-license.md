@@ -1,0 +1,295 @@
+---
+api_specs:
+- filename: letta-admin-api-openapi.yml
+  format: yaml
+  label: Letta Admin API
+  slug: letta-admin-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-admin-api-openapi.yml
+- filename: letta-agents-api-openapi.yml
+  format: yaml
+  label: Letta Agents API
+  slug: letta-agents-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-agents-api-openapi.yml
+- filename: letta-archives-api-openapi.yml
+  format: yaml
+  label: Letta Archives API
+  slug: letta-archives-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-archives-api-openapi.yml
+- filename: letta-blocks-api-openapi.yml
+  format: yaml
+  label: Letta Blocks API
+  slug: letta-blocks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-blocks-api-openapi.yml
+- filename: letta-client-side-access-tokens-api-openapi.yml
+  format: yaml
+  label: Letta Client-Side Access Tokens API
+  slug: letta-client-side-access-tokens-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-client-side-access-tokens-api-openapi.yml
+- filename: letta-conversations-api-openapi.yml
+  format: yaml
+  label: Letta Conversations API
+  slug: letta-conversations-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-conversations-api-openapi.yml
+- filename: letta-device-storage-api-openapi.yml
+  format: yaml
+  label: Letta Device Storage API
+  slug: letta-device-storage-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-device-storage-api-openapi.yml
+- filename: letta-embeddings-api-openapi.yml
+  format: yaml
+  label: Letta Embeddings API
+  slug: letta-embeddings-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-embeddings-api-openapi.yml
+- filename: letta-environments-api-openapi.yml
+  format: yaml
+  label: Letta Environments API
+  slug: letta-environments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-environments-api-openapi.yml
+- filename: letta-feeds-api-openapi.yml
+  format: yaml
+  label: Letta Feeds API
+  slug: letta-feeds-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-feeds-api-openapi.yml
+- filename: letta-folders-api-openapi.yml
+  format: yaml
+  label: Letta Folders API
+  slug: letta-folders-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-folders-api-openapi.yml
+- filename: letta-groups-api-openapi.yml
+  format: yaml
+  label: Letta Groups API
+  slug: letta-groups-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-groups-api-openapi.yml
+- filename: letta-health-api-openapi.yml
+  format: yaml
+  label: Letta Health API
+  slug: letta-health-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-health-api-openapi.yml
+- filename: letta-identities-api-openapi.yml
+  format: yaml
+  label: Letta Identities API
+  slug: letta-identities-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-identities-api-openapi.yml
+- filename: letta-internal-agents-api-openapi.yml
+  format: yaml
+  label: Letta Internal Agents API
+  slug: letta-internal-agents-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-internal-agents-api-openapi.yml
+- filename: letta-internal-blocks-api-openapi.yml
+  format: yaml
+  label: Letta Internal Blocks API
+  slug: letta-internal-blocks-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-internal-blocks-api-openapi.yml
+- filename: letta-internal-runs-api-openapi.yml
+  format: yaml
+  label: Letta Internal Runs API
+  slug: letta-internal-runs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-internal-runs-api-openapi.yml
+- filename: letta-internal-templates-api-openapi.yml
+  format: yaml
+  label: Letta Internal Templates API
+  slug: letta-internal-templates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-internal-templates-api-openapi.yml
+- filename: letta-jobs-api-openapi.yml
+  format: yaml
+  label: Letta Jobs API
+  slug: letta-jobs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-jobs-api-openapi.yml
+- filename: letta-mcp-servers-api-openapi.yml
+  format: yaml
+  label: Letta MCP Servers API
+  slug: letta-mcp-servers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-mcp-servers-api-openapi.yml
+- filename: letta-memory-files-api-openapi.yml
+  format: yaml
+  label: Letta Memory Files API
+  slug: letta-memory-files-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-memory-files-api-openapi.yml
+- filename: letta-messages-api-openapi.yml
+  format: yaml
+  label: Letta Messages API
+  slug: letta-messages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-messages-api-openapi.yml
+- filename: letta-metadata-api-openapi.yml
+  format: yaml
+  label: Letta Metadata API
+  slug: letta-metadata-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-metadata-api-openapi.yml
+- filename: letta-models-api-openapi.yml
+  format: yaml
+  label: Letta Models API
+  slug: letta-models-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-models-api-openapi.yml
+- filename: letta-passages-api-openapi.yml
+  format: yaml
+  label: Letta Passages API
+  slug: letta-passages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-passages-api-openapi.yml
+- filename: letta-pipelines-api-openapi.yml
+  format: yaml
+  label: Letta Pipelines API
+  slug: letta-pipelines-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-pipelines-api-openapi.yml
+- filename: letta-projects-api-openapi.yml
+  format: yaml
+  label: Letta Projects API
+  slug: letta-projects-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-projects-api-openapi.yml
+- filename: letta-providers-api-openapi.yml
+  format: yaml
+  label: Letta Providers API
+  slug: letta-providers-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-providers-api-openapi.yml
+- filename: letta-runs-api-openapi.yml
+  format: yaml
+  label: Letta Runs API
+  slug: letta-runs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-runs-api-openapi.yml
+- filename: letta-sandboxes-api-openapi.yml
+  format: yaml
+  label: Letta Sandboxes API
+  slug: letta-sandboxes-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-sandboxes-api-openapi.yml
+- filename: letta-scheduled-messages-api-openapi.yml
+  format: yaml
+  label: Letta Scheduled Messages API
+  slug: letta-scheduled-messages-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-scheduled-messages-api-openapi.yml
+- filename: letta-sources-api-openapi.yml
+  format: yaml
+  label: Letta Sources API
+  slug: letta-sources-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-sources-api-openapi.yml
+- filename: letta-steps-api-openapi.yml
+  format: yaml
+  label: Letta Steps API
+  slug: letta-steps-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-steps-api-openapi.yml
+- filename: letta-tag-api-openapi.yml
+  format: yaml
+  label: Letta Tag API
+  slug: letta-tag-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-tag-api-openapi.yml
+- filename: letta-telemetry-api-openapi.yml
+  format: yaml
+  label: Letta Telemetry API
+  slug: letta-telemetry-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-telemetry-api-openapi.yml
+- filename: letta-templates-api-openapi.yml
+  format: yaml
+  label: Letta Templates API
+  slug: letta-templates-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-templates-api-openapi.yml
+- filename: letta-tools-api-openapi.yml
+  format: yaml
+  label: Letta Tools API
+  slug: letta-tools-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-tools-api-openapi.yml
+- filename: letta-voice-api-openapi.yml
+  format: yaml
+  label: Letta Voice API
+  slug: letta-voice-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-voice-api-openapi.yml
+- filename: letta-llms-api-openapi.yml
+  format: yaml
+  label: Letta LL Ms API
+  slug: letta-llms-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-llms-api-openapi.yml
+- filename: letta-chat-completions-api-openapi.yml
+  format: yaml
+  label: Letta Chat Completions API
+  slug: letta-chat-completions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/letta/openapi/letta-chat-completions-api-openapi.yml
+claim_count: 2
+description: ''
+doc:
+  attribution:
+    required: true
+    text: You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work
+  data:
+    license: Apache-2.0
+    stance_commercial: allowed
+    text: each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work
+  interface_license:
+    url: null
+  outputs:
+    license: null
+    stance_commercial: unstated
+    text: null
+layer: data_license
+layer_version: 0.1.0
+layout: data-license
+method: harvested
+model: claude-haiku-5-5
+name: Letta
+output_license: null
+provenance_date: '2026-11-09'
+provider_name: Letta
+provider_slug: letta
+slug: letta-data-license
+source_date: '2026-11-09'
+source_filename: letta-data-license.yml
+source_heading: Data License
+source_page: https://github.com/letta-ai/letta/blob/main/LICENSE
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ndata_license: 0.1.0\nprovider: Letta\naid: letta\nurl: https://github.com/letta-ai/letta/blob/main/LICENSE\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\noutputs:\n  license: null\n  stance_commercial: unstated\n  text: null\ndata:\n  license: Apache-2.0\n  stance_commercial: allowed\n  text: each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable\n    copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense,\n    and distribute the Work\nattribution:\n  required: true\n  text: You must retain, in the Source form of any Derivative Works that You distribute,\
+  \ all copyright, patent,\n    trademark, and attribution notices from the Source form of the Work\ninterface_license:\n  url: null\n"
+source_yaml_url: https://artifacts.apis.io/letta/data-license/letta-data-license.yml
+stated_fields:
+- data
+- attribution
+summary_line: 2 quoted statements, read from Letta's own page on 2026-11-09.
+synthetic: false
+tags:
+- Artificial Intelligence
+- Agents
+- Stateful Agents
+- Memory
+- MemGPT
+- Continual Learning
+- MCP
+- Multi-Agent
+- RAG
+- Open Source
+- Real-Time
+---

@@ -39,7 +39,7 @@ summary_line: 1 quoted statement, read from cloudresume.io's own page on 2026-11
 synthetic: false
 tags:
 - Company
-- Resumes
+- Resume
 - Resume Builder
 - Careers
 - Artificial Intelligence

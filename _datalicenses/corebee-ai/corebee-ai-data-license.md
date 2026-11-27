@@ -78,7 +78,7 @@ summary_line: 2 quoted statements, read from Corebee's own page on 2026-11-09.
 synthetic: false
 tags:
 - Company
-- Customer Support
+- Customer Service
 - Artificial Intelligence
 - Chatbots
 - Help Desk

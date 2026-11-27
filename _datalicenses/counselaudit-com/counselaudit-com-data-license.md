@@ -42,10 +42,10 @@ summary_line: 3 quoted statements, read from CounselAudit's own page on 2026-11-
 synthetic: false
 tags:
 - Company
-- Legal Technology
+- Legal Tech
 - Legal Billing
 - Invoice Review
-- Legal Spend Management
+- E-Billing
 - Outside Counsel Guidelines
 - Artificial Intelligence
 - MCP

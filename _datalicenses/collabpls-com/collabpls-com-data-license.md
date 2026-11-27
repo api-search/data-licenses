@@ -50,7 +50,7 @@ tags:
 - Marketplace
 - Collaboration
 - Scheduling
-- Social Networking
+- Social Network
 - MCP
 - Agents
 ---

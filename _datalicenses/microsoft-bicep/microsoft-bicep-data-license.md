@@ -1,0 +1,68 @@
+---
+api_specs:
+- filename: microsoft-bicep-deployments-api-openapi.yml
+  format: yaml
+  label: Microsoft Bicep Deployments API
+  slug: microsoft-bicep-deployments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/microsoft-bicep/openapi/microsoft-bicep-deployments-api-openapi.yml
+- filename: microsoft-bicep-template-spec-versions-api-openapi.yml
+  format: yaml
+  label: Microsoft Bicep Template Spec Versions API
+  slug: microsoft-bicep-template-spec-versions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/microsoft-bicep/openapi/microsoft-bicep-template-spec-versions-api-openapi.yml
+- filename: microsoft-bicep-template-specs-api-openapi.yml
+  format: yaml
+  label: Microsoft Bicep Template Specs API
+  slug: microsoft-bicep-template-specs-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/microsoft-bicep/openapi/microsoft-bicep-template-specs-api-openapi.yml
+claim_count: 2
+description: ''
+doc:
+  attribution:
+    required: true
+    text: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+  data:
+    license: MIT
+    stance_commercial: allowed
+    text: the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software
+  interface_license:
+    url: null
+  outputs:
+    license: null
+    stance_commercial: unstated
+    text: null
+layer: data_license
+layer_version: 0.1.0
+layout: data-license
+method: harvested
+model: claude-haiku-5-5
+name: Microsoft Bicep
+output_license: null
+provenance_date: '2026-11-10'
+provider_name: Microsoft Bicep
+provider_slug: microsoft-bicep
+slug: microsoft-bicep-data-license
+source_date: '2026-11-10'
+source_filename: microsoft-bicep-data-license.yml
+source_heading: Data License
+source_page: https://github.com/Azure/bicep/blob/main/LICENSE
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ndata_license: 0.1.0\nprovider: Microsoft Bicep\naid: microsoft-bicep\nurl: https://github.com/Azure/bicep/blob/main/LICENSE\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\n  sources:\n  - https://github.com/Azure/bicep/blob/main/LICENSE\n  - https://www.microsoft.com/en-us/legal/terms-of-use\noutputs:\n  license: null\n  stance_commercial: unstated\n  text: null\ndata:\n  license: MIT\n  stance_commercial: allowed\n  text: the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software\nattribution:\n  required: true\n  text: The above copyright notice and this permission notice shall be included in all copies or substantial\
+  \ portions\n    of the Software.\ninterface_license:\n  url: null\n"
+source_yaml_url: https://artifacts.apis.io/microsoft-bicep/data-license/microsoft-bicep-data-license.yml
+stated_fields:
+- data
+- attribution
+summary_line: 2 quoted statements, read from Microsoft Bicep's own page on 2026-11-10.
+synthetic: false
+tags:
+- ArmTemplates
+- Microsoft Azure
+- Cloud
+- Deployment
+- DevOps
+- Infrastructure as Code
+---

@@ -1,0 +1,92 @@
+---
+api_specs:
+- filename: beyond-bank-banking-account-balances-api-openapi.yml
+  format: yaml
+  label: Beyond Bank Australia Banking Account Balances API
+  slug: beyond-bank-banking-account-balances-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/beyond-bank/openapi/beyond-bank-banking-account-balances-api-openapi.yml
+- filename: beyond-bank-banking-account-direct-debits-api-openapi.yml
+  format: yaml
+  label: Beyond Bank Australia Banking Account Direct Debits API
+  slug: beyond-bank-banking-account-direct-debits-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/beyond-bank/openapi/beyond-bank-banking-account-direct-debits-api-openapi.yml
+- filename: beyond-bank-banking-account-scheduled-payments-api-openapi.yml
+  format: yaml
+  label: Beyond Bank Australia Banking Account Scheduled Payments API
+  slug: beyond-bank-banking-account-scheduled-payments-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/beyond-bank/openapi/beyond-bank-banking-account-scheduled-payments-api-openapi.yml
+- filename: beyond-bank-banking-account-transactions-api-openapi.yml
+  format: yaml
+  label: Beyond Bank Australia Banking Account Transactions API
+  slug: beyond-bank-banking-account-transactions-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/beyond-bank/openapi/beyond-bank-banking-account-transactions-api-openapi.yml
+- filename: beyond-bank-banking-accounts-api-openapi.yml
+  format: yaml
+  label: Beyond Bank Australia Banking Accounts API
+  slug: beyond-bank-banking-accounts-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/beyond-bank/openapi/beyond-bank-banking-accounts-api-openapi.yml
+- filename: beyond-bank-banking-payees-api-openapi.yml
+  format: yaml
+  label: Beyond Bank Australia Banking Payees API
+  slug: beyond-bank-banking-payees-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/beyond-bank/openapi/beyond-bank-banking-payees-api-openapi.yml
+- filename: beyond-bank-banking-products-api-openapi.yml
+  format: yaml
+  label: Beyond Bank Australia Banking Products API
+  slug: beyond-bank-banking-products-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/beyond-bank/openapi/beyond-bank-banking-products-api-openapi.yml
+claim_count: 1
+description: ''
+doc:
+  attribution:
+    required: null
+    text: null
+  data:
+    license: null
+    stance_commercial: prohibited
+    text: The information on this site is the property of Beyond Bank Australia and subject to Copyright. Unauthorised use of the information, graphics and materials in this site is not permitted.
+  interface_license:
+    url: null
+  outputs:
+    license: null
+    stance_commercial: unstated
+    text: null
+layer: data_license
+layer_version: 0.1.0
+layout: data-license
+method: harvested
+model: claude-haiku-5-5
+name: Beyond Bank Australia
+output_license: null
+provenance_date: '2026-11-09'
+provider_name: Beyond Bank Australia
+provider_slug: beyond-bank
+slug: beyond-bank-data-license
+source_date: '2026-11-09'
+source_filename: beyond-bank-data-license.yml
+source_heading: Data License
+source_page: https://www.beyondbank.com.au/terms-of-use/
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ndata_license: 0.1.0\nprovider: Beyond Bank Australia\naid: beyond-bank\nurl: https://www.beyondbank.com.au/terms-of-use/\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\noutputs:\n  license: null\n  stance_commercial: unstated\n  text: null\ndata:\n  license: null\n  stance_commercial: prohibited\n  text: The information on this site is the property of Beyond Bank Australia and subject to Copyright. Unauthorised\n    use of the information, graphics and materials in this site is not permitted.\nattribution:\n  required: null\n  text: null\ninterface_license:\n  url: null\n"
+source_yaml_url: https://artifacts.apis.io/beyond-bank/data-license/beyond-bank-data-license.yml
+stated_fields:
+- data
+summary_line: 1 quoted statement, read from Beyond Bank Australia's own page on 2026-11-09.
+synthetic: false
+tags:
+- Finance
+- Banks
+- Open Banking
+- CDR
+- Consumer Banking
+- Australia
+- Customer Owned
+- Product Reference Data
+---

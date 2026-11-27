@@ -1,0 +1,49 @@
+---
+claim_count: 1
+description: ''
+doc:
+  attribution:
+    required: null
+    text: null
+  data:
+    license: null
+    stance_commercial: prohibited
+    text: You may not copy, distribute, display or perform publicly, sublicense, decompile, disassemble, reduce to human readable form, execute publicly, make available to the public, adapt, make commercial use, process, compile, translate, sell, lend, rent, reverse engineer
+  interface_license:
+    url: null
+  outputs:
+    license: null
+    stance_commercial: unstated
+    text: null
+layer: data_license
+layer_version: 0.1.0
+layout: data-license
+method: harvested
+model: claude-haiku-5-5
+name: AgadoLive
+output_license: null
+provenance_date: '2026-11-09'
+provider_name: AgadoLive
+provider_slug: agadolive
+slug: agadolive-data-license
+source_date: '2026-11-09'
+source_filename: agadolive-data-license.yml
+source_heading: Data License
+source_page: https://www.agadolive.com/terms
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ndata_license: 0.1.0\nprovider: AgadoLive\naid: agadolive\nurl: https://www.agadolive.com/terms\nsource_date: '2026-11-09'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-09'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\noutputs:\n  license: null\n  stance_commercial: unstated\n  text: null\ndata:\n  license: null\n  stance_commercial: prohibited\n  text: You may not copy, distribute, display or perform publicly, sublicense, decompile, disassemble, reduce to\n    human readable form, execute publicly, make available to the public, adapt, make commercial use, process, compile,\n    translate, sell, lend, rent, reverse engineer\nattribution:\n  required: null\n  text: null\ninterface_license:\n  url: null\n"
+source_yaml_url: https://artifacts.apis.io/agadolive/data-license/agadolive-data-license.yml
+stated_fields:
+- data
+summary_line: 1 quoted statement, read from AgadoLive's own page on 2026-11-09.
+synthetic: false
+tags:
+- Company
+- Digital Health
+- Telehealth
+- Rehabilitation
+- Physical Therapy
+- Computer Vision
+- Artificial Intelligence
+- Healthcare
+---

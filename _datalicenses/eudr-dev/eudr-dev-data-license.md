@@ -84,6 +84,6 @@ tags:
 - EU Deforestation
 - Compliance
 - Agriculture
-- AI
+- Artificial Intelligence
 - Environmental
 ---

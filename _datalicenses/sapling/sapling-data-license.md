@@ -1,0 +1,88 @@
+---
+api_specs:
+- filename: sapling-account-api-openapi.yml
+  format: yaml
+  label: Sapling Account API
+  slug: sapling-account-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/sapling/openapi/sapling-account-api-openapi.yml
+- filename: sapling-analysis-api-openapi.yml
+  format: yaml
+  label: Sapling Analysis API
+  slug: sapling-analysis-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/sapling/openapi/sapling-analysis-api-openapi.yml
+- filename: sapling-detection-api-openapi.yml
+  format: yaml
+  label: Sapling Detection API
+  slug: sapling-detection-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/sapling/openapi/sapling-detection-api-openapi.yml
+- filename: sapling-files-api-openapi.yml
+  format: yaml
+  label: Sapling Files API
+  slug: sapling-files-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/sapling/openapi/sapling-files-api-openapi.yml
+- filename: sapling-generation-api-openapi.yml
+  format: yaml
+  label: Sapling Generation API
+  slug: sapling-generation-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/sapling/openapi/sapling-generation-api-openapi.yml
+- filename: sapling-proofreading-api-openapi.yml
+  format: yaml
+  label: Sapling Proofreading API
+  slug: sapling-proofreading-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/sapling/openapi/sapling-proofreading-api-openapi.yml
+- filename: sapling-service-api-openapi.yml
+  format: yaml
+  label: Sapling Service API
+  slug: sapling-service-api
+  spec_type: OpenAPI
+  url: https://artifacts.apis.io/sapling/openapi/sapling-service-api-openapi.yml
+claim_count: 1
+description: ''
+doc:
+  attribution:
+    required: null
+    text: null
+  data:
+    license: custom
+    stance_commercial: prohibited
+    text: All copyright and other proprietary notices on the Service (or on any content displayed on the Service) must be retained on all copies thereof.
+  interface_license:
+    url: null
+  outputs:
+    license: null
+    stance_commercial: unstated
+    text: null
+layer: data_license
+layer_version: 0.1.0
+layout: data-license
+method: harvested
+model: claude-haiku-5-5
+name: Sapling
+output_license: null
+provenance_date: '2026-11-10'
+provider_name: Sapling
+provider_slug: sapling
+slug: sapling-data-license
+source_date: '2026-11-10'
+source_filename: sapling-data-license.yml
+source_heading: Data License
+source_page: https://sapling.ai/tos
+source_url: ''
+source_yaml: "# Read from the provider's own page by engine/business/harvest-business.py. Every `text` is quoted verbatim from `url` (or the row's `source`); `unstated` means the page did not say.\ndata_license: 0.1.0\nprovider: Sapling\naid: sapling\nurl: https://sapling.ai/tos\nsource_date: '2026-11-10'\nx-apis-io-derivation:\n  synthetic: false\n  method: harvested\n  read: '2026-11-10'\n  tool: engine/business/harvest-business.py\n  model: claude-haiku-5-5\noutputs:\n  license: null\n  stance_commercial: unstated\n  text: null\ndata:\n  license: custom\n  stance_commercial: prohibited\n  text: All copyright and other proprietary notices on the Service (or on any content displayed on the Service)\n    must be retained on all copies thereof.\nattribution:\n  required: null\n  text: null\ninterface_license:\n  url: null\n"
+source_yaml_url: https://artifacts.apis.io/sapling/data-license/sapling-data-license.yml
+stated_fields:
+- data
+summary_line: 1 quoted statement, read from Sapling's own page on 2026-11-10.
+synthetic: false
+tags:
+- Artificial Intelligence
+- Language-Model
+- Enterprise
+- Productivity
+---
